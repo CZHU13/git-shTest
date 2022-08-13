@@ -1,6 +1,6 @@
 hello git! hello git! 22
 hello git! hello git! 
-hello git! hello git!
+hello git! hello git! hot_fix conflict
 hello git! hello git!
 hello git! hello git!
 hello git! hello git!
